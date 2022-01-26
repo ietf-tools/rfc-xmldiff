@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.6.1] - 2019-12-05
+## [0.6.0] - 2019-12-05
 
 ### Changed
 
@@ -198,7 +198,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - First drop of code - only does pure xml differences
 
-- [0.6.1]: https://github.com/ietf-tools/rfclint/compare/0.5.19...0.6.1
+- [0.6.0]: https://github.com/ietf-tools/rfclint/compare/0.5.19...0.6.0
 - [0.5.19]: https://github.com/ietf-tools/rfclint/compare/0.5.18...0.5.19
 - [0.5.18]: https://github.com/ietf-tools/rfclint/compare/0.5.15...0.5.18
 - [0.5.15]: https://github.com/ietf-tools/rfclint/compare/0.5.14...0.5.15

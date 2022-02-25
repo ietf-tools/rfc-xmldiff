@@ -1,6 +1,6 @@
 <div align="center">
     
-<img src="https://raw.githubusercontent.com/ietf-tools/common/main/assets/logos/ietf-rfc-xmldiff-logo.svg" alt="IETF RFC-XMLDIFF" width="600" />
+<img src="https://raw.githubusercontent.com/ietf-tools/common/main/assets/logos/rfc-xmldiff.svg" alt="RFC-XMLDIFF" height="125" />
     
 [![Release](https://img.shields.io/github/release/ietf-tools/rfc-xmldiff.svg?style=flat&maxAge=360)](https://github.com/ietf-tools/rfc-xmldiff/releases)
 [![License](https://img.shields.io/github/license/ietf-tools/rfc-xmldiff)](https://github.com/ietf-tools/rfc-xmldiff/blob/main/LICENSE)
